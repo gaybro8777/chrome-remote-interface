@@ -43,13 +43,13 @@
     "browser": "chrome-remote-interface.js",
     "devDependencies": {
         "babel-core": "^6.26.3",
-        "babel-loader": "6.x.x",
+        "babel-loader": "9.x.x",
         "babel-polyfill": "^6.26.0",
         "babel-preset-env": "^1.7.0",
         "eslint": "^3.19.0",
         "json-loader": "^0.5.4",
         "mocha": "5.x.x",
-        "webpack": "^1.13.3"
+        "webpack": "^5.74.0"
     },
     "scripts": {
         "test": "./scripts/run-tests.sh",
